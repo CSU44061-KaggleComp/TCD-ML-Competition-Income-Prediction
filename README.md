@@ -1,5 +1,5 @@
 # TCD-ML-Competition-Income-Prediction
-Individaul Competition for Machine Learning Module at TCD
+Individual Competition for Machine Learning Module at TCD
 
 incomeprediction.py is the "cleaned up" version of my code on kaggle (e.g. adding comments for clarity, 
 removing commented-out code and imported libraries left over from previous versions which I no longer used).
